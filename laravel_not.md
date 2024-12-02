@@ -68,6 +68,8 @@
     >> php artisan make:seeder <Seeder Name>
 
     >> php artisan db:seed
+
+    >> php artisan db:seed --class=YourCustomSeeder
     
     >> php artisan migrate:refresh --seed
 
