@@ -79,6 +79,9 @@
     >> php artisan make:model <Model Name> -msc
     >> php artisan make:model <Model Name> -m  (Model and Migrate)
 
+# Create Service
+    >> php artisan make:service <ServiceName>
+
 
 # Optimize the Application
     >> php artisan optimize
